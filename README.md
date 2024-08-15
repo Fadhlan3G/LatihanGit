@@ -1,1 +1,1 @@
-# LatihanGit
+Projek yang saat ini saya lakukan adalah proses awal pembuatan web dengan menggunakan VSCode dan github
